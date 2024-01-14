@@ -5,8 +5,9 @@ import lombok.Data;
 @Data
 public class Vehicle {
 
-	private Type vehicleType;
+	private VehicleType vehicleType;
 	
 	private String color;
+	
 	
 }

@@ -3,10 +3,10 @@ package com.mu.parkinglot.models;
 import lombok.Data;
 
 @Data
-public class Lot {
+public class ParkingLot {
 
 	
-	private VehicleType vehicleType;
+	private ParkingType parkingType;
 	
 	private int count;
 	

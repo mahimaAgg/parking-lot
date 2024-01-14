@@ -15,5 +15,7 @@ public class ParkingTransactions {
 	
 	private Double totalCost;
 	
+	private String status;
+	
 	
 }
